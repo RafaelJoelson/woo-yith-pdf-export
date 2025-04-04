@@ -19,7 +19,7 @@ A powerful WordPress plugin to export selected WooCommerce orders to PDF format 
 1. **Download the Plugin**:
    - Clone this repository or download the ZIP file:
      ```bash
-     git clone https://github.com/Rafaeljoelson/woo-orders-pdf-export.git
+     git clone https://github.com/Rafaeljoelson/woo-yith-pdf-export.git
      ```
 
 2. **Install Dompdf**:
