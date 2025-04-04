@@ -1,0 +1,7 @@
+{
+    "name": "rafaeljoelson/woo-orders-pdf-export",
+    "description": "Export WooCommerce orders to PDF",
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}
